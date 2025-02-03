@@ -1,47 +1,40 @@
 <h1>
   <span class="prefix"></span>
-  <span class="headline">[tktk Headline]</span>
+  <span class="headline">Intermediate Python Lab</span>
 </h1>
 
 ## About
 
-tktk Write a short but descriptive summary of the content in this module. Introduce the lab. What will the students build in this lab?
+In this module, we'll learn more about the world of Python and explore some exciting topics that will take your programming skills to the next level. Get ready to embark on a fantastic journey filled with data manipulation, functions, modules, file read/write operations, control flow, debugging, and error handling.
 
 ## Content
 
-- [Setup](./setup/README.md)
-- [Exercise](./exercise/README.md)
+- [Functions and Modular Code Organization](./functions-and-code-organization/README.md)
+- [Modules and Packages](./modules-and-packages/README.md)
+- [File Handling and Read/Write Operations](./file-handling/README.md)
+- [Advanced Control Flow and Looping](./control-flow-and-looping/README.md)
+- [Debugging and Error Handling](./debugging-and-error-handling/README.md)
+
+## Level Up
+
+🚀 [Level Up](./level-up/README.md)
 
 ## Internal
 
 ### Prerequisites
 
-- tktk
+- [Intro to Python Lecture](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/intro-to-python/)
+- [Intro to Python Lab](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/intro-to-python-lab/)
+- [Intermediate Python Lecture](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/intermediate-python/)
 
 ### Time to complete
 
-Estimated time to complete core lab exercise: **tktk min**
-
-### Starter code
-
-tktk If there is not a starter code repo that students will fork and clone to start this lab, then this section and all of its content should be removed.
-
-🟢 [Starter code](https://git.generalassemb.ly/modular-curriculum-all-courses/tktk)
-
-### Solution code
-
-🏁 [Solution code](https://git.generalassemb.ly/modular-curriculum-all-courses/tktk)
-
-### Deployed sites
-
-tktk If there is not a deployed site related to this module this section and all of its content should be removed.
-
-🌐 [Live site](https://generalassemb.ly/tktk)
+Estimated time to complete core lab exercise: **90 min**
 
 ### Course landing pages
 
-- [tktk-course-acronym - tktk Course Full Name](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/tktk-module-name/canvas-landing-pages/tktk-course-acronym.html)
-- [Fallback](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/tktk-module-name/canvas-landing-pages/fallback.html)
+- [ITB - IT Bootcamp](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/intermediate-python-lab/canvas-landing-pages/itb.html)
+- [Fallback](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/intermediate-python-lab/canvas-landing-pages/fallback.html)
 
 ### Resources
 

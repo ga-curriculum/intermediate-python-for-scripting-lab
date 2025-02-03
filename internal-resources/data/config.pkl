@@ -12,9 +12,9 @@ import "microlessons.pkl" as mls
 
 repo {
   // This name is shown in the header nav to navigate users home
-  friendlyName = "[tktk Headline]"
+  friendlyName = "Intermediate Python Lab"
   // This must match the repo name as it appears on GitHub exactly
-  name = "tktk-module-name"
+  name = "intermediate-python-lab"
   type = "Lab"
 }
 
@@ -24,8 +24,26 @@ courses {
     name = "fallback"
     microlessons {
       // Add microlessons here, in the order they should be delivered
-      mls.setup
-      mls.exercise
+      mls.functionsAndModularCode
+      mls.modulesAndPackages
+      mls.fileHandling
+      mls.controlFlowAndLooping
+      mls.debuggingAndErrorHandling
+      // You can make course-specific adjustments using a syntax like this:
+      (mls.levelUp) {
+        type = "Level Up content"
+      }
+    }
+  }
+
+    new {
+    name = "itb"
+    microlessons {
+      mls.functionsAndModularCode
+      mls.modulesAndPackages
+      mls.fileHandling
+      mls.controlFlowAndLooping
+      mls.debuggingAndErrorHandling
       // You can make course-specific adjustments using a syntax like this:
       (mls.levelUp) {
         type = "Level Up content"
