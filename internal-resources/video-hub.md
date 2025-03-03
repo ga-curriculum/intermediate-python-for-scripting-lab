@@ -1,5 +1,5 @@
 <h1>
-  <span class="headline">Intermediate Python Lab</span>
+  <span class="headline">Intermediate Python for Scripting Lab</span>
   <span class="subhead">Video Hub</span>
 </h1>
 

@@ -1,7 +1,7 @@
 <!-- ! Do not delete or rename this file! -->
 <h1>
   <span class="prefix"></span>
-  <span class="headline">Intermediate Python Lab</span>
+  <span class="headline">Intermediate Python for Scripting Lab</span>
 </h1>
 
 ## About
