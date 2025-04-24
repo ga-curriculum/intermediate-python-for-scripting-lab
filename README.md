@@ -9,23 +9,23 @@ In this module, we'll learn more about the world of Python and explore some exci
 
 ## Content
 
-- [Functions and Modular Code Organization](./functions-and-code-organization/README.md)
+- [Setup](./setup/README.md)
+- [Functions and Modular Code](./functions-and-modular-code/README.md)
 - [Modules and Packages](./modules-and-packages/README.md)
-- [File Handling and Read/Write Operations](./file-handling/README.md)
-- [Advanced Control Flow and Looping](./control-flow-and-looping/README.md)
+- [Working With Files](./working-with-files/README.md)
+- [Control Flow and Looping](./control-flow-and-looping/README.md)
 - [Debugging and Error Handling](./debugging-and-error-handling/README.md)
 
-## Level Up
+## Rubrics
 
-🚀 [Level Up](./level-up/README.md)
+- [ITB - IT Bootcamp Rubric](./rubrics/itb.md)
+- [Fallback Rubric](./rubrics/fallback.md)
 
 ## Internal
 
 ### Prerequisites
 
-- [Intro to Python Lecture](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/intro-to-python/)
-- [Intro to Python Lab](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/intro-to-python-lab/)
-- [Intermediate Python Lecture](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/intermediate-python/)
+- Intermediate Python for Scripting
 
 ### Time to complete
 

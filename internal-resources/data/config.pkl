@@ -20,6 +20,21 @@ repo {
 
 courses {
   new {
+    name = "itb"
+    microlessons {
+      mls.functionsAndModularCode
+      mls.modulesAndPackages
+      mls.fileHandling
+      (mls.controlFlowAndLooping) {
+        type = "Level Up content"
+      }
+      // You can make course-specific adjustments using a syntax like this:
+      (mls.debuggingAndErrorHandling) {
+        type = "Level Up content"
+      }
+    }
+  }
+  new {
     // Do not remove this fallback course!
     name = "fallback"
     microlessons {
@@ -30,24 +45,7 @@ courses {
       mls.controlFlowAndLooping
       mls.debuggingAndErrorHandling
       // You can make course-specific adjustments using a syntax like this:
-      (mls.levelUp) {
-        type = "Level Up content"
-      }
-    }
-  }
 
-    new {
-    name = "itb"
-    microlessons {
-      mls.functionsAndModularCode
-      mls.modulesAndPackages
-      mls.fileHandling
-      mls.controlFlowAndLooping
-      mls.debuggingAndErrorHandling
-      // You can make course-specific adjustments using a syntax like this:
-      (mls.levelUp) {
-        type = "Level Up content"
-      }
     }
   }
 }

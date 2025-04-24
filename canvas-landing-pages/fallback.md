@@ -16,6 +16,6 @@ In this module, we'll learn more about the world of Python and explore some exci
 - [Advanced Control Flow and Looping](../control-flow-and-looping/README.md)
 - [Debugging and Error Handling](../debugging-and-error-handling/README.md)
 
-## Level Up
+## Rubric
 
-🚀 [Level Up](../level-up/README.md)
+[Rubric](../rubrics/fallback.md)
