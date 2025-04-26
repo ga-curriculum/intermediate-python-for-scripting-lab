@@ -1,6 +1,6 @@
 <h1>
   <span class="headline">Intermediate Python for Scripting Lab</span>
-  <span class="subhead">Advanced Control Flow and Looping</span>
+  <span class="subhead">Control Flow and Looping</span>
 </h1>
 
 **Learning objective:** By the end of this lesson, students will be able to use advanced conditional statements and iterations.

@@ -60,7 +60,7 @@
           "estimatedDeliveryTimeInMinutes": 0
         },
         {
-          "friendlyName": "Advanced Control Flow and Looping",
+          "friendlyName": "Control Flow and Looping",
           "dirName": "control-flow-and-looping",
           "type": "Level Up content",
           "skill": "",
@@ -149,7 +149,7 @@
           "estimatedDeliveryTimeInMinutes": 0
         },
         {
-          "friendlyName": "Advanced Control Flow and Looping",
+          "friendlyName": "Control Flow and Looping",
           "dirName": "control-flow-and-looping",
           "type": "Content",
           "skill": "",

@@ -13,12 +13,10 @@ In this module, we'll learn more about the world of Python and explore some exci
 - [Functions and Modular Code](../functions-and-modular-code/README.md)
 - [Modules and Packages](../modules-and-packages/README.md)
 - [File Handling and Read/Write Operations](../working-with-files/README.md)
-- [Control Flow and Looping](../control-flow-and-looping/README.md)
-- [Debugging and Error Handling](../debugging-and-error-handling/README.md)
 
 ## Level Up
 
-- 🚀 [Advanced Control Flow and Looping](../control-flow-and-looping/README.md)
+- 🚀 [Control Flow and Looping](../control-flow-and-looping/README.md)
 - 🚀 [Debugging and Error Handling](../debugging-and-error-handling/README.md)
 
 ## Rubric

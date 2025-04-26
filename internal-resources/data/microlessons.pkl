@@ -31,7 +31,7 @@ workingWithFiles = new Template.Microlesson {
 }
 
 controlFlowAndLooping = new Template.Microlesson {
-  friendlyName = "Advanced Control Flow and Looping"
+  friendlyName = "Control Flow and Looping"
   dirName = "control-flow-and-looping"
   type = "Content"
   videoUrl = ""
