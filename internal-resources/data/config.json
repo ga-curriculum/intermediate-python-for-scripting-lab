@@ -14,14 +14,24 @@
   },
   "courses": [
     {
-      "name": "fallback",
+      "name": "itb",
       "courseAcronym": "",
       "courseFullName": "",
       "logoUrl": "",
       "microlessons": [
         {
-          "friendlyName": "Functions and Modular Code Organization",
-          "dirName": "functions-and-code-organization",
+          "friendlyName": "Setup",
+          "dirName": "setup",
+          "type": "Content",
+          "skill": "",
+          "learningObjective": "",
+          "videoUrl": "",
+          "videoLengthInMinutes": 0,
+          "estimatedDeliveryTimeInMinutes": 0
+        },
+        {
+          "friendlyName": "Functions and Modular Code",
+          "dirName": "functions-and-modular-code",
           "type": "Content",
           "skill": "",
           "learningObjective": "",
@@ -40,8 +50,8 @@
           "estimatedDeliveryTimeInMinutes": 0
         },
         {
-          "friendlyName": "File Handling and Read/Write Operations",
-          "dirName": "file-handling",
+          "friendlyName": "Working with Files",
+          "dirName": "working-with-files",
           "type": "Content",
           "skill": "",
           "learningObjective": "",
@@ -52,7 +62,7 @@
         {
           "friendlyName": "Advanced Control Flow and Looping",
           "dirName": "control-flow-and-looping",
-          "type": "Content",
+          "type": "Level Up content",
           "skill": "",
           "learningObjective": "",
           "videoUrl": "",
@@ -62,16 +72,6 @@
         {
           "friendlyName": "Debugging and Error Handling",
           "dirName": "debugging-and-error-handling",
-          "type": "Content",
-          "skill": "",
-          "learningObjective": "",
-          "videoUrl": "",
-          "videoLengthInMinutes": 0,
-          "estimatedDeliveryTimeInMinutes": 0
-        },
-        {
-          "friendlyName": "Level Up",
-          "dirName": "level-up",
           "type": "Level Up content",
           "skill": "",
           "learningObjective": "",
@@ -103,14 +103,24 @@
       "isActivityTimeShown": true
     },
     {
-      "name": "itb",
+      "name": "fallback",
       "courseAcronym": "",
       "courseFullName": "",
       "logoUrl": "",
       "microlessons": [
         {
-          "friendlyName": "Functions and Modular Code Organization",
-          "dirName": "functions-and-code-organization",
+          "friendlyName": "Setup",
+          "dirName": "setup",
+          "type": "Content",
+          "skill": "",
+          "learningObjective": "",
+          "videoUrl": "",
+          "videoLengthInMinutes": 0,
+          "estimatedDeliveryTimeInMinutes": 0
+        },
+        {
+          "friendlyName": "Functions and Modular Code",
+          "dirName": "functions-and-modular-code",
           "type": "Content",
           "skill": "",
           "learningObjective": "",
@@ -129,8 +139,8 @@
           "estimatedDeliveryTimeInMinutes": 0
         },
         {
-          "friendlyName": "File Handling and Read/Write Operations",
-          "dirName": "file-handling",
+          "friendlyName": "Working with Files",
+          "dirName": "working-with-files",
           "type": "Content",
           "skill": "",
           "learningObjective": "",
@@ -152,16 +162,6 @@
           "friendlyName": "Debugging and Error Handling",
           "dirName": "debugging-and-error-handling",
           "type": "Content",
-          "skill": "",
-          "learningObjective": "",
-          "videoUrl": "",
-          "videoLengthInMinutes": 0,
-          "estimatedDeliveryTimeInMinutes": 0
-        },
-        {
-          "friendlyName": "Level Up",
-          "dirName": "level-up",
-          "type": "Level Up content",
           "skill": "",
           "learningObjective": "",
           "videoUrl": "",

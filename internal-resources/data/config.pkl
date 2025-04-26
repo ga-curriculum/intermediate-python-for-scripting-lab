@@ -22,13 +22,14 @@ courses {
   new {
     name = "itb"
     microlessons {
+      mls.setup
       mls.functionsAndModularCode
       mls.modulesAndPackages
-      mls.fileHandling
+      mls.workingWithFiles
+      // You can make course-specific adjustments using a syntax like this:
       (mls.controlFlowAndLooping) {
         type = "Level Up content"
       }
-      // You can make course-specific adjustments using a syntax like this:
       (mls.debuggingAndErrorHandling) {
         type = "Level Up content"
       }
@@ -39,12 +40,12 @@ courses {
     name = "fallback"
     microlessons {
       // Add microlessons here, in the order they should be delivered
+      mls.setup
       mls.functionsAndModularCode
       mls.modulesAndPackages
-      mls.fileHandling
+      mls.workingWithFiles
       mls.controlFlowAndLooping
       mls.debuggingAndErrorHandling
-      // You can make course-specific adjustments using a syntax like this:
 
     }
   }
