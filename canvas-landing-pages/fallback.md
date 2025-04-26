@@ -10,6 +10,7 @@ In this module, we'll learn more about the world of Python and explore some exci
 
 ## Content
 
+- [Setup](../setup/README.md)
 - [Functions and Modular Code Organization](../functions-and-code-organization/README.md)
 - [Modules and Packages](../modules-and-packages/README.md)
 - [File Handling and Read/Write Operations](../file-handling/README.md)
