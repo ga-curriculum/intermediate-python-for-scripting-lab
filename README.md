@@ -29,7 +29,7 @@ In this module, we'll learn more about the world of Python and explore some exci
 
 ### Time to complete
 
-Estimated time to complete core lab exercise: **90 min**
+Estimated time to complete core lab exercise: **45 min**
 
 ### Course landing pages
 
